@@ -1,0 +1,12 @@
+{
+  "name": "ashok-bala-portfolio-root",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "npm.cmd --prefix client run dev",
+    "dev:client": "npm.cmd --prefix client run dev",
+    "dev:server": "node server/server.js",
+    "build:client": "npm.cmd --prefix client run build",
+    "install:all": "npm.cmd --prefix client install; npm.cmd --prefix server install"
+  }
+}
