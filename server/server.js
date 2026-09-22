@@ -78,7 +78,7 @@ Location: Madurai, Tamil Nadu, India
 Phone: +91 7010929780
 Email: balaashok650@gmail.com
 LinkedIn: linkedin.com/in/ashok-bala-7bb372362
-GitHub: github.com/ashokbala005
+GitHub: github.com/ashokbala-005
 
 ==================================================
 PROFESSIONAL SUMMARY

@@ -12,7 +12,7 @@ export const personalInfo = {
   phone: "+91 7010929780",
   email: "balaashok650@gmail.com",
   linkedin: "https://linkedin.com/in/ashok-bala-7bb372362",
-  github: "https://github.com/ashokbala005",
+  github: "https://github.com/ashokbala-005",
   availability: "Available for Full-time Roles & High-Impact Projects",
   stats: [
     { label: "Industry Experience", value: "2+" },
@@ -143,7 +143,7 @@ export const projects = [
     ],
     techStack: ["React.js", "Node.js", "Express.js", "MySQL", "Tailwind CSS", "REST API", "Prompt Engineering"],
     links: {
-      github: "https://github.com/ashokbala005",
+      github: "https://github.com/ashokbala-005",
       demo: "#"
     }
   }
