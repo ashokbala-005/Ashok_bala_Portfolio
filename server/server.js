@@ -74,7 +74,7 @@ app.post('/api/contact', (req, res) => {
 app.get('/api/resume/download', (req, res) => {
   const resumeText = `ASHOK BALA S
 Prompt Engineering & GenAI-Assisted Development | React JS · Node JS · JavaScript
-Location: Madurai, Tamil Nadu, India
+Location: Chennai, Tamil Nadu, India
 Phone: +91 7010929780
 Email: balaashok650@gmail.com
 LinkedIn: linkedin.com/in/ashok-bala-7bb372362

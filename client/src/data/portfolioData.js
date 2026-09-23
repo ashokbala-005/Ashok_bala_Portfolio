@@ -8,7 +8,7 @@ export const personalInfo = {
     "AI-Assisted Workflow Expert"
   ],
   bio: "Web Developer specializing in prompt engineering and AI-assisted development, with hands-on experience designing, testing, and refining structured prompts to accelerate coding, debugging, code review, and technical documentation using tools such as Claude AI, Google Antigravity, and GitHub Copilot. Builds responsive, scalable full-stack web applications using React JS, Node JS, JavaScript, and MySQL.",
-  location: "Madurai, Tamil Nadu, India",
+  location: "Chennai, Tamil Nadu, India",
   phone: "+91 7010929780",
   email: "balaashok650@gmail.com",
   linkedin: "https://linkedin.com/in/ashok-bala-7bb372362",
